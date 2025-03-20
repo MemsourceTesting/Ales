@@ -1,6 +1,0 @@
-{
-    "pricingGrid.planAttribute.value.one": {
-        "defaultMessage": "1",
-        "description": "The entry on the pricing grid that we use to describe the limit of a feature for that current plan."
-    }
-}
