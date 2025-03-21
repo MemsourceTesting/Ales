@@ -5,7 +5,7 @@ phrase:
   
   push:
     sources:
-    - file: pricing_grid.yml
+    - file: pricing_grid.json
       params:
         file_format: json
         locale_id: en
